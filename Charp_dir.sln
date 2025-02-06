@@ -106,7 +106,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LINQ_dir", "LINQ_dir", "{0A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_file", "LINQ_file\LINQ_file.csproj", "{FA178F53-BA27-4ECD-8A5B-2E3C9B324823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Code", "Class_Code\Class_Code.csproj", "{0A245278-6496-4D04-A243-5DCDCF8CA650}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_LINQ_Code", "Class_LINQ_Code\Class_LINQ_Code.csproj", "{0A245278-6496-4D04-A243-5DCDCF8CA650}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
